@@ -16,3 +16,7 @@ git 2 add then pull to push
 dấu tiếng việt
 
 second stash: add then stash
+restore then continue
+
+----------------------------
+checkout master: master content
