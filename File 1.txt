@@ -15,4 +15,8 @@ git 2 add then pull to push
 
 dấu tiếng việt
 
+<<<<<<< Updated upstream
 second branch add
+=======
+this content add to master branch
+>>>>>>> Stashed changes
