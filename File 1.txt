@@ -1,3 +1,4 @@
 File 1
 git2 add
 git2 add new without pull
+git2 add then commit then tag
