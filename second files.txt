@@ -1,1 +1,3 @@
 sometext for second branch
+
+remote add readme but i don't care
