@@ -7,4 +7,4 @@ If you want to use special settings only when working in a certain repository, y
 
 $ git config user.name "John Doe"
 $ git config user.email "john@doe.org"
-
+edit some content by master
