@@ -12,3 +12,5 @@ addd
 merged
 
 git 2 add then pull to push
+
+dấu tiếng việt
