@@ -14,7 +14,8 @@ merged
 git 2 add then pull to push
 
 dấu tiếng việt
-some change master before slash
+
+second stash: add then stash
 restore then continue
 
 ----------------------------
