@@ -4,3 +4,5 @@ git2 add
 git2 add new without pull
 git2 add then commit then tag
 git2 add then push
+
+git 2 add then pull to push
