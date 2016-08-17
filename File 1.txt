@@ -2,5 +2,11 @@ File 1
 git1 add
 git2 add
 git 1 add something without care about pull new data
-
 reset hard then add something
+
+
+
+git2 add then push
+
+addd
+merged
