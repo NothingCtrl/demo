@@ -16,3 +16,6 @@ git 2 add then pull to push
 dấu tiếng việt
 some change master before slash
 restore then continue
+
+----------------------------
+checkout master: master content
